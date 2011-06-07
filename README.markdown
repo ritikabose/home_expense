@@ -2,7 +2,7 @@
 
 This is the sample application for
 [*Home expense*](http://railstutorial.org/)
-by [Ritika Bose].
+by  Ritika Bose.
 
-In this application you can manage your monhly home
+In this application you can manage your monthly home
 expense Online.
